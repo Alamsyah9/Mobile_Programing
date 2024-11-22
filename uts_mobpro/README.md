@@ -1,6 +1,6 @@
 # uts_mobpro
 
-Untuk pembuatan projek mobile programing smester 5
+Untuk pembuatan projek mobile programing semester 5
 
 ## Getting Started
 
