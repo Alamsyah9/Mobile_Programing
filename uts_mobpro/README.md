@@ -1,6 +1,6 @@
 # uts_mobpro
 
-A new Flutter project.
+Untuk pembuatan projek mobile programing smester 5
 
 ## Getting Started
 
